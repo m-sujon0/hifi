@@ -310,7 +310,7 @@ textarea{
 }
 .form-btn-feild{
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 .contact-button:hover{
 color: black;
