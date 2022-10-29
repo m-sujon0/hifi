@@ -308,10 +308,6 @@ textarea{
 .contact-button{
     width: 30%;
 }
-.form-btn-feild{
-    display: flex;
-    justify-content: flex-end;
-}
 .contact-button:hover{
 color: black;
 background-color: white;
